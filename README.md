@@ -1,7 +1,7 @@
   
   <h1 align="center">
     Oi, eu sou o 
-    <a href="#">Jonathan Borges</a>
+    <a href="#">HigorXadrez</a>
   </h1>
   
    <p align="center">
